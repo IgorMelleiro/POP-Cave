@@ -6,7 +6,7 @@ npm install
 
 # Abrir localhost
 npm run serve <br>
-Utilize outra porta se achar necessario ex: (npm run serve -- --port 3000)
+Utilize outra porta se achar necessário ex: (npm run serve -- --port 3000)
 
 # Utilização do projeto
 1° Ao abrir o projeto, adicione os produtos ao carrinho.<br>
@@ -17,7 +17,7 @@ Utilize outra porta se achar necessario ex: (npm run serve -- --port 3000)
 
 # Firebase
 AVISO<br>
-As instruções a seguir são para caso você queira adicionar o seu proprico Cloud Firestore ao projeto.<br>
+As instruções a seguir são para caso você queira adicionar o seu próprio Cloud Firestore ao projeto.<br>
 
 1° Crie seu projeto no firebase e inicie o Cloud Firestore.<br>
 2° Nas configurações copie o codigo da "Firebase SDK snippet" e cole no lugar do que está presente no arquivo firebase.js<br>
