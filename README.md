@@ -23,3 +23,7 @@ As instruções a seguir são para caso você queira adicionar o seu próprio Cl
 2° Nas configurações copie o codigo da "Firebase SDK snippet" e cole no lugar do que está presente no arquivo firebase.js<br>
 3° Crie uma collection no Cloud Firestore e não se esqueça de mudar o nome dela nas referências db.collection presentes nos arquivos .vue <br>
 (ou crie uma collection com o nome 'vue' que já está referenciado)
+
+# Link do Deploy
+Vercel -
+https://pop-cave-store-obl3ic97g.vercel.app/
