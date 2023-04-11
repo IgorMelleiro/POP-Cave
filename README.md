@@ -1,5 +1,6 @@
 # Pop-Cave-Store
-Um e-commerce básico de camisetas POP desenvolvido com Vue e Firebase.
+
+Pop-cave is a E-commerce project developed with vue + firebase and deployed with vercel
 
 # Instalar node_modules
 npm install
